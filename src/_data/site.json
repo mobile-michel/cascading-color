@@ -1,0 +1,10 @@
+{
+    "name": "Cascading Color",
+    "description": "Eleventy with Cascading Color System",
+    "authorName": "Michel Maillard",
+    "authorUrl": "https://michelmaillard.ch/",
+    "github": "https://github.com/mobile-michel/cascading-color",
+    "favicon": "https://11ty.recipes/images/meta/favicon.svg",
+    "css": "assets/css/ccs.css",
+    "backgroundImage": "https://images.pexels.com/photos/14702039/pexels-photo-14702039.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&dpr=1"
+}
