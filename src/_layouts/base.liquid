@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" [data-ccs-colors=dark]>
+<html lang="en" data-ccs="root" data-ccs-theme="oddbird" data-ccs-colors>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,11 +10,9 @@
       href="{{ site.favicon }}"
       type="image/svg+xml">
     <title>{{ title }} - {{ site.name }}</title>
-    <link rel="stylesheet" href="{{ site.css }}">
+    <link rel="stylesheet" href="/assets/css/{{ css }}">
     <style>
-        main {
-            background-color: var(--ccs-prime);
-        }
+      
     </style>
   </head>
   <body>

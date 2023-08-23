@@ -1,6 +1,7 @@
 ---
 title: Eleventy Basic Template
 layout: base
+css: styles.css
 ---
 ## {{ site.description }}
 
